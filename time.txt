@@ -91,3 +91,13 @@ Device: posix.uname_result(sysname='Darwin', nodename='Michaels-MacBook-Air-3.lo
 Date and Time: Tue Oct 22 16:23:05 2024
 Number of Images: 30
 
+98x98/youtubelogo: 0.361285924911499
+Device: posix.uname_result(sysname='Darwin', nodename='Michaels-MacBook-Air-4.local', release='24.1.0', version='Darwin Kernel Version 24.1.0: Thu Oct 10 21:05:14 PDT 2024; root:xnu-11215.41.3~2/RELEASE_ARM64_T8103', machine='arm64')
+Date and Time: Thu Mar 13 15:57:23 2025
+Number of Images: 2
+
+98x98/youtubelogo: 3.768627882003784
+Device: posix.uname_result(sysname='Darwin', nodename='192.168.1.104', release='24.1.0', version='Darwin Kernel Version 24.1.0: Thu Oct 10 21:05:14 PDT 2024; root:xnu-11215.41.3~2/RELEASE_ARM64_T8103', machine='arm64')
+Date and Time: Thu Mar 13 18:52:34 2025
+Number of Images: 20
+
