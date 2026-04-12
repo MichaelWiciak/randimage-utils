@@ -114,22 +114,3 @@ This project consists of two primary scripts, **ImageGenerator.py** and **ImageS
 5. **Logging**:
    - After generating the images, the script logs the time taken for the generation process in `time.txt`, along with device information and the number of images created.
 
-### ImageScaler.py
-
-**Purpose**: This script scales an existing image to a specified resolution and saves it to a user-defined location.
-
-1. **Command-Line Arguments**:
-   - The script requires three arguments: `image_path`, `resolution`, and `save_path`.
-   - It checks that the provided image path exists and verifies that the resolution is valid.
-
-2. **Image Scaling**:
-   - Upon validating the inputs, the script opens the specified image file using the Pillow library.
-   - The original resolution of the image is printed for reference.
-   - The image is resized to the desired resolution using the `resize()` method.
-
-3. **Saving the Scaled Image**:
-   - The scaled image is saved to the specified `save_path`, and the new resolution is printed to confirm the operation.
-
-### Error Handling
-Both scripts include error handling to provide informative messages to the user when inputs are invalid or when files and directories cannot be accessed or created.
-
